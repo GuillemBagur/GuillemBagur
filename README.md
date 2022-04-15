@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GuillemBagur
-- 👀 I’m interested in everything related to programming, but specially in Web aplications
-- 🌱 I’m currently learning JavaScript (React and Node)
+- 👋 Hi, I’m @GuillemBagur.
+- 👀 I’m specially interested in web development.
+- 🌱 I’m currently learning JavaScript (React and Node).
 - 💞️ I’m looking to collaborate on JS opensource projects. Contact me for porpouses.
 - 📫 How to reach me via e-mail: guillembagurmoll@gmail.com
 
