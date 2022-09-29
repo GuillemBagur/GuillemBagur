@@ -8,6 +8,12 @@ let guillem = {
   learning: ["React ⚛️", "SCSS", "Microservices", "Open Source 💞"],
   hobbies: ["Running 🏃‍♂️", "Play football ⚽", "Play chess ♟️"],
   preferredNaming: "CamelCase 🐫",
+  contact: {email: "guillembagurmoll@gmail.com", ig: "@guillem_bagur"},
+  projects: [
+    {name: "sunflowerseeds", ghUrl: "https://github.com/GuillemBagur/sunflowerseeds"},
+    {name: "patorrat", ghUrl: "https://github.com/GuillemBagur/patorrat"}
+    /* Visit my Repositories page for more! */
+  ]
 }
 
 
