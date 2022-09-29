@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @GuillemBagur.
-- 👀 I’m specially interested in web development.
-- 🌱 I’m currently learning JavaScript (React and Node).
-- 💞️ I’m looking to collaborate on JS opensource projects. Contact me for porpouses.
-- 📫 How to reach me via e-mail: guillembagurmoll@gmail.com
+```js
+/* Declaring a Guillem object as let, because it may change during execution of life */
+let guillem = {
+  pronouns: "he" | "him",
+  country: "Spain 🇪🇸", /* More specificly, in Menorca, Balearic Islands 💚 */
+  code: ["Javascript 🤝", "HTML", "CSS", "PHP 🐘", "Python 🐍"], /* In that order */
+  tools: ["Node & Express", "VSCode", "Bootstrap"],
+  learning: ["React ⚛️", "SCSS", "Microservices", "Open Source 💞"],
+  hobbies: ["Running 🏃‍♂️", "Play football ⚽", "Play chess ♟️"],
+  preferredNaming: "CamelCase 🐫",
+}
 
-<!---
-GuillemBagur/GuillemBagur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+console.log("Thanks for visiting my profile!");
+
+```
