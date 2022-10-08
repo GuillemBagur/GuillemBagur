@@ -1,5 +1,5 @@
 ```js
-/* Declaring Guillem let, because it may change during execution of life */
+/* Declaring Guillem as let, because it may change during execution of life */
 let guillem = {
   pronouns: "he" | "him",
   country: "Spain 🇪🇸", /* More specificly, in Menorca, Balearic Islands 💚 */
