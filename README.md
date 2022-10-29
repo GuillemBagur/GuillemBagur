@@ -12,7 +12,7 @@ let guillem = {
   contact: {email: "guillembagurmoll@gmail.com", ig: "@guillem_bagur"},
   projects: [
     {name: "sunflowerseeds", ghUrl: "https://github.com/GuillemBagur/sunflowerseeds"},
-    {name: "patorrat", ghUrl: "https://github.com/GuillemBagur/patorrat"}
+    {name: "defib", ghUrl: "https://github.com/GuillemBagur/defib"}
     /* Visit my Repositories page for more! */
   ]
 }
