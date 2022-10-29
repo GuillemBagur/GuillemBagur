@@ -3,7 +3,7 @@
 let guillem = {
   pronouns: "he" | "him",
   country: "Spain 🇪🇸", /* More specificly, in Menorca, Balearic Islands 💚 */
-  yearOfBirth: "2005",
+  birthday: "28/04/2005",
   code: ["Javascript 🤝", "HTML", "CSS", "PHP 🐘", "Python 🐍"], /* In that order */
   tools: ["Node & Express", "VSCode", "Bootstrap"],
   learning: ["React ⚛️", "SCSS", "Microservices", "Open Source 💞"],
