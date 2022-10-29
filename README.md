@@ -9,7 +9,7 @@ let guillem = {
   learning: ["React ⚛️", "SCSS", "Microservices", "Open Source 💞"],
   hobbies: ["Running 🏃‍♂️", "Playing football ⚽", "Playing chess ♟️"],
   preferredNaming: "CamelCase 🐫",
-  contact: {email: "guillembagurmoll@gmail.com", ig: "@guillem_bagur"},
+  contact: {email: "guillembagurmoll@gmail.com", ig: "@guillem_bagur", twitter: "@guillem_bagur", linkedin: "https://www.linkedin.com/in/guillem-bagur-0b3262218/"},
   projects: [
     {name: "sunflowerseeds", ghUrl: "https://github.com/GuillemBagur/sunflowerseeds"},
     {name: "defib", ghUrl: "https://github.com/GuillemBagur/defib"}
