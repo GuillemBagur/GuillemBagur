@@ -7,7 +7,7 @@ let guillem = {
   code: ["Javascript 🤝", "HTML", "CSS", "PHP 🐘", "Python 🐍"], /* In that order */
   tools: ["Node & Express", "VSCode", "Bootstrap"],
   learning: ["React ⚛️", "SCSS", "Microservices", "Open Source 💞"],
-  hobbies: ["Running 🏃‍♂️", "Play football ⚽", "Play chess ♟️"],
+  hobbies: ["Running 🏃‍♂️", "Playing football ⚽", "Playing chess ♟️"],
   preferredNaming: "CamelCase 🐫",
   contact: {email: "guillembagurmoll@gmail.com", ig: "@guillem_bagur"},
   projects: [
