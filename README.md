@@ -5,7 +5,7 @@ let guillem = {
   country: "Spain", /* More specificly, in Menorca, Balearic Islands */
   code: ["Javascript", "HTML", "CSS", "PHP", "Python"], /* In that order */
   tools: ["Node & Express", "VSCode", "Bootstrap"],
-  learning: ["React ⚛️", "SCSS", "Microservices", "Open Source"],
+  learning: ["React", "SCSS", "Microservices", "Open Source"],
   hobbies: ["Running", "Playing football", "Playing chess"],
   preferredNaming: "CamelCase",
   contact: {email: "guillembagurmoll@gmail.com", ig: "@guillem_bagur", twitter: "@guillem_bagur", linkedin: "https://www.linkedin.com/in/guillem-bagur-0b3262218/"},
