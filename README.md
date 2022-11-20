@@ -1,7 +1,7 @@
 ```js
 /* Declaring Guillem as let, because it may change during execution of life */
 let guillem = {
-  pronouns: "he" | "him",
+  pronouns: ["he" , "him"],
   country: "Spain", /* More specificly, in Menorca, Balearic Islands */
   code: ["Javascript", "HTML", "CSS", "PHP", "Python"], /* In that order */
   tools: ["Node & Express", "VSCode", "Bootstrap"],
