@@ -4,9 +4,9 @@ let guillem = {
   pronouns: ["he", "him"],
   country: "Spain", /* More specificly, in Menorca, Balearic Islands */
   code: ["Javascript", "HTML", "CSS", "Java", "PHP", "Python"], /* In that order */
-  tools: ["Node & Express", "React", "VSCode", "Bootstrap"],
+  tools: ["Node & Express", "React", "SCSS", "Linux", "Nginx", "VSCode", "Bootstrap"],
   learning: ["Java", "Git"],
-  hobbies: ["Running", "Playing football", "Playing chess"],
+  hobbies: ["Running", "Playing chess"],
   preferredNaming: "camelCase",
   contact: {email: "guillembagurmoll@gmail.com", ig: "@guillem_bagur", twitter: "@guillem_bagur", linkedin: "https://www.linkedin.com/in/guillem-bagur-0b3262218/"},
   projects: [
