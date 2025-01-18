@@ -5,7 +5,7 @@ let guillem = {
   code: ["Javascript", "HTML", "CSS", "Java", "PHP", "Python"], /* In that order */
   tools: ["Node & Express", "React", "SCSS", "Linux", "Nginx"],
   hobbies: ["Running", "Playing chess"],
-  contact: {email: "guillembagurmoll@gmail.com", ig: "@guillem_bagur", twitter: "@guillem_bagur", linkedin: "https://www.linkedin.com/in/guillem-bagur-0b3262218/"},
+  contact: {email: "guillembagurmoll@gmail.com", ig: "@guillem_bagur", twitter: "@guillem_bagur", linkedin: "https://linkedin.com/in/guillembagur"},
   projects: [
     {name: "sunflowerseeds", url: "https://sunflowerseeds.pangea.org/", ghUrl: "https://github.com/GuillemBagur/sunflowerseeds"},
     {name: "defib", ghUrl: "https://github.com/GuillemBagur/defib"}
